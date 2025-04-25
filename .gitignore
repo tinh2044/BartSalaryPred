@@ -1,0 +1,9 @@
+logs/
+dataset/
+.history/
+.cache/
+__pycache__/
+eval_results/
+my-model/
+map_ids.json
+model_config.json
